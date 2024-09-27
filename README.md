@@ -1,6 +1,6 @@
-# AI Requirements Prompts
+# Prompts for Describing AI Requirements
 
-Welcome to the AI Requirements Prompts repository! This collection of prompts is designed to help non-technical users effectively translate their ideas for AI-powered solutions into detailed system requirements that technical teams can understand and implement.
+Welcome to the AI Backlog Prompts repository! This collection of prompts is designed to help non-technical users effectively translate their ideas for AI-powered solutions into detailed system requirements that technical teams can understand and implement.
 
 We hope this repository helps you in defining effective requirements for your AI projects. Happy prompting!
 
